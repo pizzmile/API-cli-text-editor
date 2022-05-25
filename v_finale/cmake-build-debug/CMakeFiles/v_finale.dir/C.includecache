@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/giacomo/Documenti/progettoAPI/v_finale/API1920_10620604.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+

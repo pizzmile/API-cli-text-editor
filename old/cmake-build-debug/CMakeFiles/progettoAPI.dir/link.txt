@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/progettoAPI.dir/main.c.o CMakeFiles/progettoAPI.dir/liste.c.o CMakeFiles/progettoAPI.dir/test.c.o CMakeFiles/progettoAPI.dir/progetto_v1.c.o  -o progettoAPI 

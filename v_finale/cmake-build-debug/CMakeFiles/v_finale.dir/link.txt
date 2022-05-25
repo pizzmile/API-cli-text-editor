@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/v_finale.dir/API1920_10620604.c.o  -o v_finale 

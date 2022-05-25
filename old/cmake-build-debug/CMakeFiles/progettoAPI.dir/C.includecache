@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/giacomo/Documenti/progettoAPI/progetto_v1.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/giacomo/Documenti/progettoAPI/test.c
+stdio.h
+-
+stdlib.h
+-
+

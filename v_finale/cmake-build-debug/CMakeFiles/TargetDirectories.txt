@@ -1,0 +1,3 @@
+/home/giacomo/Documenti/progettoAPI/v_finale/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/giacomo/Documenti/progettoAPI/v_finale/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/giacomo/Documenti/progettoAPI/v_finale/cmake-build-debug/CMakeFiles/v_finale.dir
